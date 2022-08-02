@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ThummmarHency/React-master.git/static/css/main.680f287d.css",
+    "main.js": "/ThummmarHency/React-master.git/static/js/main.ae3a6fbc.js",
+    "static/js/787.f055211e.chunk.js": "/ThummmarHency/React-master.git/static/js/787.f055211e.chunk.js",
+    "service-worker.js": "/ThummmarHency/React-master.git/service-worker.js",
+    "index.html": "/ThummmarHency/React-master.git/index.html",
+    "main.680f287d.css.map": "/ThummmarHency/React-master.git/static/css/main.680f287d.css.map",
+    "main.ae3a6fbc.js.map": "/ThummmarHency/React-master.git/static/js/main.ae3a6fbc.js.map",
+    "787.f055211e.chunk.js.map": "/ThummmarHency/React-master.git/static/js/787.f055211e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.680f287d.css",
+    "static/js/main.ae3a6fbc.js"
+  ]
+}
